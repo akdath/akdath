@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**akdath/akdath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akshay Dath, a Computer Science student focused on building practical software projects using Python and modern technologies.
 
-Here are some ideas to get you started:
+* 🔭 Currently working on personal development projects
+* 🌱 Currently learning Cloud Computing
+* 👯 Open to collaborating on beginner-friendly projects
+* 📫 Reach me on GitHub
+* ⚡ Interested in creating useful real-world applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Python
+* Flask
+* SQLite
+* Git & GitHub
+* HTML / CSS
+* Problem Solving
+
+## Projects
+
+* **SignTrack** – Hand gesture desktop controller
+* Web development mini projects
+* Python automation projects
